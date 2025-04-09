@@ -1,72 +1,58 @@
-<h1 align="center">Hi, I'm Simon Wanna 👋</h1>
+<h1 align="left">Hello, I'm Simon Wanna and welcome to my GitHub 👋</h1>
 
-<p align="center">
-  🎓 ML Master's Student @ KTH Stockholm | 🏊<200d>♂️ Ex-Professional Swimmer<br>
-  Passionate about science, building impactful solutions, and lifelong learning.
+<p align="left">
+  🛠️ Currently working on research for autonomous driving<br>
+  🎓 ML Master's Student @ KTH Stockholm<br>
+  🏊‍♂️ Ex-Professional Swimmer<br>
+  📖 Passionate about science, building impactful solutions, and lifelong learning
 </p>
 
 ---
 
-## 🚀 Skills & Tools
-<details>
-<summary>Click to view 🤗</summary>
+## 🧠 Tech Stack
 
-### Machine Learning / Deep Learning / AI
-<p>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch%20lightning-792EE5?style=flat&logo=Lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Weights%20&%20Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white"/>
-</p>
-
-### Data Engineering & Visualization
-<p>
-  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apache%20Superset-FE5D3D?style=flat&logo=apachesuperset&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-</p>
-
-### Autonomous Systems / Simulation
-<p>
-  <img src="https://img.shields.io/badge/-Waymo-00E89D?style=flat"/>
-  <img src="https://img.shields.io/badge/-NuPlan-5c49f4?style=flat"/>
-  <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
-</p>
-
-### Languages, Platforms & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-</p>
-
-
-🛠️  Working on improving this every day 🤗
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-black?style=for-the-badge&logo=lightning&logoColor=792EE5)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-black?style=for-the-badge&logo=weightsandbiases&logoColor=FFBE00)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-black?style=for-the-badge&logo=huggingface&logoColor=FFD21F)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-black?style=for-the-badge&logo=apachesuperset&logoColor=FE5D3D)
+![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-black?style=for-the-badge&logo=delta-io&logoColor=00A972)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon&logoColor=232F3E)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Waymo](https://img.shields.io/badge/Waymo-black?style=for-the-badge&logoColor=00E89D)
+![NuPlan](https://img.shields.io/badge/NuPlan-black?style=for-the-badge&logoColor=5C49F4)
+![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logoColor=4479A1)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 </details>
 
 ---
 
-## 📫 Let's Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wannaio/wannaio/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wannaio/wannaio/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wannaio/wannaio/output/github-snake.svg" />
+</picture>
+
+---
+
+## 📧 Let's Connect
 
 <p align="left">
-  <a href="mailto:wanna@kth.se">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/simon-wanna/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="mailto:wanna@kth.se"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://www.linkedin.com/in/simon-wanna/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
 </p>
