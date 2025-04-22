@@ -1,7 +1,6 @@
 <h1 align="left">Hello, I'm Simon Wanna and welcome to my GitHub 👋</h1>
 
 <p align="left">
-  🛠️ Currently working on research for autonomous driving<br>
   🎓 ML Master's Student @ KTH Stockholm<br>
   🏊‍♂️ Ex-Professional Swimmer<br>
   📖 Passionate about science, building impactful solutions, and lifelong learning
@@ -21,7 +20,6 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-black?style=for-the-badge&logo=apachesuperset&logoColor=FE5D3D)
 ![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-black?style=for-the-badge&logo=delta-io&logoColor=00A972)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
@@ -30,8 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Waymo](https://img.shields.io/badge/Waymo-black?style=for-the-badge&logoColor=00E89D)
-![NuPlan](https://img.shields.io/badge/NuPlan-black?style=for-the-badge&logoColor=5C49F4)
 ![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=F5792A)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
@@ -43,9 +39,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wannaio/wannaio/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wannaio/wannaio/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wannaio/wannaio/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simonwanna/simonwanna/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simonwanna/simonwanna/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/simonwanna/simonwanna/output/github-snake.svg" />
 </picture>
 
 ---
@@ -54,5 +50,5 @@
 
 <p align="left">
   <a href="mailto:wanna@kth.se"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
-  <a href="https://www.linkedin.com/in/simon-wanna/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+  <a href="https://www.linkedin.com/in/simonwanna/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
 </p>
