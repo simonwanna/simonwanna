@@ -19,20 +19,22 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458)
+![Plotly](https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Neo4j](https://img.shields.io/badge/Neo4j-black?style=for-the-badge&logo=neo4j&logoColor=76B900)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=F5792A)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logoColor=4479A1)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
+![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+<!-- ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon&logoColor=232F3E) -->
+<!-- ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logoColor=4479A1) -->
 
 </details>
 
