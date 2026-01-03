@@ -30,6 +30,8 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=F5792A)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
