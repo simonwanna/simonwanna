@@ -1,18 +1,15 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&height=26&lines=Hello+%F0%9F%91%8B;I'm+Simon+Wanna;Machine+Learning+Engineer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=420&height=26&lines=Hello+%F0%9F%91%8B;I'm+Simon+Wanna;Machine+Learning+Engineer" />
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&height=26&lines=Hello+%F0%9F%91%8B;I'm+Simon+Wanna;Machine+Learning+Engineer" />
-  </picture>
-</div>
 
-<h3 align="center">About Me</h3>
+```bash
+simon@kth:~$ whoami
+simonwanna
 
-<p align="center">
-  🎓 Graduating Machine Learning Master's Student @ KTH Stockholm <br/>
-  🏊 Ex-Professional Swimmer <br/>
-  💻 Passionate about Science, Machine Learning and Autonomous Systems
-</p>
+simon@kth:~$ cat ~/education.txt
+M.Sc. Machine Learning @ KTH Stockholm 🎓
+
+simon@kth:~$ grep -E "background|passions" ~/bio.txt
+background: Ex-Professional Swimmer 🏊
+passions: Science, Machine Learning, Autonomous Systems 💻
+```
 
 ---
 
