@@ -13,7 +13,7 @@ passions: Science, Machine Learning, Autonomous Systems 💻
 
 ---
 
-<h3 align="center">🧠 Tech Stack</h3>
+<small>simonwanna / **SKILL.md**</small>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
@@ -26,6 +26,7 @@ passions: Science, Machine Learning, Autonomous Systems 💻
   <img src="https://img.shields.io/badge/Apache%20Airflow-black?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
   <img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly&logoColor=3F4F75" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
   <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Neo4j-black?style=for-the-badge&logo=neo4j&logoColor=76B900" alt="Neo4j" />
   <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
@@ -41,6 +42,7 @@ passions: Science, Machine Learning, Autonomous Systems 💻
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Golang" />
   <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+  <img src="https://img.shields.io/badge/Claude%20Code-black?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
   <!-- ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon&logoColor=232F3E) -->
   <!-- ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logoColor=4479A1) -->
 </div>
@@ -55,11 +57,11 @@ passions: Science, Machine Learning, Autonomous Systems 💻
   </picture>
 </div>
 
----
+<!-- --- -->
 
-<h3 align="center">📧 Let's Connect</h3>
+<!-- <h3 align="center">Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:wanna@kth.se"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/simonwanna/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
-</p>
+</p> -->
