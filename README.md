@@ -31,6 +31,7 @@ passions: Science, Machine Learning, Autonomous Systems 💻
   <img src="https://img.shields.io/badge/Neo4j-black?style=for-the-badge&logo=neo4j&logoColor=76B900" alt="Neo4j" />
   <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
@@ -43,6 +44,7 @@ passions: Science, Machine Learning, Autonomous Systems 💻
   <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Golang" />
   <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
   <img src="https://img.shields.io/badge/Claude%20Code-black?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <!-- <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" alt="dbt" /> -->
   <!-- ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon&logoColor=232F3E) -->
   <!-- ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logoColor=4479A1) -->
 </div>
