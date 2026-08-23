@@ -41,6 +41,7 @@ passions: Science, Machine Learning, Autonomous Systems 💻
   <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Golang" />
   <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
   <img src="https://img.shields.io/badge/Claude%20Code-black?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
